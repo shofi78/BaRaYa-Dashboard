@@ -1,4 +1,4 @@
-# BaRaYa-Dashboard
+# BaRaYa (Bayi Juara Wargi Sadaya)-Dashboard
 
 ## **Latar Belakang**
 Anak - anak indonesia adalah aset bangsa yang paling berharga, yang akan menentukan masa depan bangsa. Pilihan kebijakan dan investasi pemerintah untuk anak Indonesia yang diambil pada hari ini akan berdampak besar terhadap masa depan Indonesia. Di provinsi Jawa Barat, angka kelahiran bayi tercatat mencapai 2.5 persen, sementara jumlah penduduk Jawa Barat juga menduduki peringkat tertinggi di Indonesia.
