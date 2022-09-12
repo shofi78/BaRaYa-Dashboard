@@ -75,5 +75,22 @@ Secara umum, hambatan-hambatan yang kami hadapi dalam pembuatan dashboard ini ad
 Visualisasi di Tableau dibuat sebagai MVP (Minimum Viable Product) Dashboard, yang mana ke depannya akan dilakukan improvement sesuai dengan feedback dan kebutuhan user. Tampilan dashboard pada Tableau dapat dilihat pada [**link**](https://public.tableau.com/app/profile/shofi.f.ilmi/viz/BaRaYaDashboard-GroupN-PLBI1-Pacmann/Dashboard1) berikut.
 
 
+![Dashboard 1](https://user-images.githubusercontent.com/102605912/189572139-c13e51cf-d57a-4467-92db-4115748a275e.png)
+
+Pada bagian atas, terdapat hasil pengelompokan hasil rangking BJ Score menjadi 2 kelompok, dengan jumlah kota & kabupaten yang termasuk ke dalam kelompok tersebut, yaitu 7 kab/ kota yang termasuk kelompok ‘Tinggi’, 13 kab/ kota yang termasuk kelompok ‘Sedang’, dan 7 kab/ kota yang termasuk ke dalam kelompok ‘Rendah’.
+
+**Fitur unggulan** dari dashboard kami tombol filter pilihan kab/kota dan pilihan indikator di **pojok kanan atas**. Melalui tombol tersebut, user dapat mengetahui faktor mana saja yang perlu menjadi prioritas penanganan untuk peningkatan kondisi bayi di wilayah tersebut. Selain itu, tombol tersebut dapat menampilkan rekomendasi sesuai dengan indikator yang dipilih.
+
+## **Kesimpulan dan Analisis**
+### Mengapa Bayi Juara?
+Karena dashboard ini dapat memberikan insight terhadap prioritas daerah yang menggambarkan kondisi bayi yang dipengaruhi oleh beberapa faktor dalam hal ini faktor yang dipilih adalah persebaran gizi buruk bayi, jumlah pernikahan dini, indeks kesehatan masyarakat dan ketersediaan layanan kesehatan di tiap wilayah Jawa Barat. Sehingga kepala daerah, policy maker dan lembaga terkait dapat melakukan screening pertama untuk pencegahan kondisi stunting di masa depan untuk mengoptimalkan aspek-aspek tumbuh kembang anak di tiap-tiap daerah.
+
+Ranking bayi juara yang diperoleh dari indexing faktor gizi bayi, index kesehatan masyarakat, jumlah pernikahan dini, dan jumlah fasilitas pelayanan kesehatan di tiap wilayah Jawa barat, sebagai indikator wilayah mana yang menjadi prioritas kebijakan & yang menjadi achievement/panutan di wilayah Jawa Barat.
+
+## **Room for Improvement:**
+* Perlu dilakukan analisis lebih lanjut untuk hasil BJ score di tahun-tahun yang belum tersedia
+* Jumlah bayi bergizi buruk pada tiap daerah perlu dilakukan analisis lebih jauh dengan membandingkannya terhadap populasi jumlah bayi di daerah tersebut
+* Perlu dilakukan analisis lebih lanjut terkait faktor-faktor lain yang juga berpengaruh terhadap kondisi bayi
+* Dapat dilakukan uji coba dengan berbagai metode untuk menghasilkan hasil perangkingan yang lebih akurat
 
 
